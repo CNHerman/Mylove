@@ -66,6 +66,15 @@ body {
   }
 }
 
+/* PC端显示并定位 */
+@media (min-width: 992px) {
+    .wpo-static-hero-inner {
+        display: block;
+        position: relative;
+        top: -200px;
+    }
+}
+
 p {
 	font-size: 18px;
 	color: #525252;
