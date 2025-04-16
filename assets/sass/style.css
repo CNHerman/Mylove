@@ -67,7 +67,7 @@ body {
 }
 
 /* PC端显示并定位 */
-@media (min-width: 992px) {
+@media (min-width: 767px) {
     .wpo-static-hero-inner {
         display: block;
         position: relative;
