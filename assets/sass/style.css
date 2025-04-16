@@ -94,7 +94,8 @@ a:hover {
 }
 
 img {
-	max-width: 100%
+	max-width: 100%;
+	margin-left: 40px
 }
 
 .wpo-box-style {
@@ -3973,7 +3974,8 @@ img {
 }
 
 .static-hero .static-hero-right .static-hero-shape-2 img,.static-hero-s2 .static-hero-right .static-hero-shape-2 img {
-	border-radius: 0
+	border-radius: 0;
+	margin-top: -40px
 }
 
 @media(max-width:575px) {
