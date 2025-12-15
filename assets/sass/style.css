@@ -3982,7 +3982,7 @@ img {
 }
 .static-hero-img-inner img {
 	margin-left: 70px;
-	margin-top: -20px;
+	margin-top: -10px;
 }
 .static-hero-shape-2 img {
     position: relative;
@@ -8515,4 +8515,5 @@ img {
 .error-404-section .error-message p {
 	margin-bottom: 1.8em
 }
+
 
