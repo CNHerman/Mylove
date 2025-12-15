@@ -15,7 +15,7 @@ html {
 body {
 	font-family: "Jost",sans-serif;
 	color: #525252;
-	background-color: #fff;
+	background-color: #FFF9FA;
 	font-size: 18px;
 	font-size: 1.2rem; 
 	overflow-x: hidden
@@ -8515,5 +8515,6 @@ img {
 .error-404-section .error-message p {
 	margin-bottom: 1.8em
 }
+
 
 
